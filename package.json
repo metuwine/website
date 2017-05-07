@@ -1,0 +1,18 @@
+{
+  "name": "metu-wine",
+  "version": "0.0.0",
+  "description": "Metu-Wine",
+  "main": "server.js",
+  "scripts": {
+    "web": "node server.js"
+  },
+  "author": {
+    "name": "Şükrü"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*",
+    "ejs": "2.5.6"
+  }
+}

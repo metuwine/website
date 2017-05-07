@@ -1,0 +1,2 @@
+C:\Users\Şükrü\Documents\Visual Studio 2015\WebSites\Metu-Wine\obj\Debug\Metu-Wine.njsprojResolveAssemblyReference.cache
+C:\Users\Şükrü\Documents\Visual Studio 2015\WebSites\Metu-Wine\bin\Microsoft.NodejsTools.WebRole.dll
